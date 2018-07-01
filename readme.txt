@@ -13,16 +13,9 @@ Custom meta description and keywords for any posts
 
 == Installation ==
 
-= From your WordPress dashboard =
+= From github.com =
 
-Go to Dashboard > Plugins > Add New
-Search for 'Easy Meta Tags'
-Click install
-Click Activate Plugin
-
-= From WordPress.org =
-
-Download the package from wordpress.org Plugin Directory
+Download the package from github.com
 Unzip the files
 Upload the unzipped files with FTP to the plugin directory in your wordpress installation
 Go to Dashboard > Plugins to activate
