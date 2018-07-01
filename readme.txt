@@ -4,8 +4,8 @@ Tags: meta, description, keywords, meta description, seo
 Requires at least: 3.1
 Tested up to: 4.9
 Stable tag: 1.0
-License: GPL2
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: MIT
+License URI: https://opensource.org/licenses/MIT
 
 
 == Description ==
